@@ -24,5 +24,4 @@ $ python3 remote_control-server.py [PORT]
 ```sh
 $ python3 remote_control-client.py [HOST] [PORT]
 ```
-(currenty tried only with IPs, not tested on domain names)
 
